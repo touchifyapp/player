@@ -15,4 +15,5 @@ You can learn more on our website: https://touchify.io.
 ## Need help?
 
 *Help center:* https://touchify.io/help
+
 *Contact us:* https://touchify.io/contact
